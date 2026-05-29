@@ -1,0 +1,8 @@
+{
+  "name": "Remix: NEET JEE Prep AI",
+  "description": "Full-featured NEET \u0026 JEE prep mobile app with automated Mock Tests, Study Planners, Gamified Streaks, Discussion groups, and an AI doubt solver powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
